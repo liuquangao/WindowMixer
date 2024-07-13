@@ -1,0 +1,6 @@
+long_term_forecast_ETTh1_336_96_WindowMixer_ETTh1_ftM_sl336_ll48_pl96_dm128_nh8_el3_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3665258586406708, mae:0.3945195972919464, dtw:-999
+
+long_term_forecast_ETTh1_336_192_WindowMixer_ETTh1_ftM_sl336_ll48_pl192_dm128_nh8_el3_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40217825770378113, mae:0.41680997610092163, dtw:-999
+
