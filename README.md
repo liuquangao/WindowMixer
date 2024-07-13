@@ -9,3 +9,15 @@ This is the official implementation of WindowMixer. WindowMixer stems from a sim
 # Main Experiment
 ![image](https://github.com/user-attachments/assets/abf3ea74-b451-45cc-9d8c-c76fa4b56cda)
 
+# Start
+'''pip install -r requirement.txt'''
+# Contact
+If you have any questions, please contact liruiqi1@sia.cn. Welcome to discuss together.
+
+# Citation
+If you find this repo useful, please cite our paper
+@article{FAITH,
+  title={FAITH :Frequency-domain Attention In Two Horizon for TSF},
+  year={2024}
+}
+# Acknowleddgement
